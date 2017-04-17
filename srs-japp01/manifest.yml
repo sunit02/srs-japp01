@@ -1,0 +1,6 @@
+---
+applications:
+- name: srs-japp01
+  memory: 512M
+  host: srs-japp01
+  domain: mybluemix.net
